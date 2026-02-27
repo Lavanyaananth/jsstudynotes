@@ -166,7 +166,9 @@ This uses closure 🔥
 
 Arrays are one of the most important data structures in JavaScript.
 An array is an ordered collection of values.
+
 Example:
+
 const numbers = [1, 2, 3, 4];
 
 Arrays can store:
