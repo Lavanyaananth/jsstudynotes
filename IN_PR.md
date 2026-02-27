@@ -189,9 +189,12 @@ Indexes start from 0.
 1️⃣ push() – Add to end
 const arr = [1, 2];
 arr.push(3); // [1, 2, 3]
+
 2️⃣ pop() – Remove from end
 arr.pop(); // removes last element
+
 3️⃣ shift() – Remove from start
 arr.shift();
+
 4️⃣ unshift() – Add to start
 arr.unshift(0);
