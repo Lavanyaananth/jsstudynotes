@@ -152,6 +152,7 @@ Event handler
 A function that:
 Takes another function as argument OR
 Returns a function
+
 function multiplier(factor) {
 return function(number) {
 return number \* factor;
